@@ -1,4 +1,2 @@
 Get the user data...
 process the data
-
-hello from abdullah alshorafa in main and updates
