@@ -1,13 +1,2 @@
 Get the user data...
-<<<<<<< HEAD
 process the data
-=======
-process the data
-
-<<<<<<< HEAD
-hello abdullah alshorafa in main and updates
-making a change to make a merge
->>>>>>> updates
-=======
-hello from abdullah alshorafa in updates
->>>>>>> updates
